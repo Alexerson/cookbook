@@ -1,0 +1,7 @@
+# PostgreSQL
+# ------------------------------------------------------------------------------
+POSTGRES_HOST=postgres
+POSTGRES_PORT=5432
+POSTGRES_DB=cookbook
+POSTGRES_USER=GbtbKvPSMPYVrsZQASsfAixUvJNSJeAn
+POSTGRES_PASSWORD=GZiXnP3KpAGQfGZRMRhtanyfTeoNdpPbYLKVI5St3iyNb3RYEMD5IRPIB4NTdX9V
